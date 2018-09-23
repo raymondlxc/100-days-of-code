@@ -9,3 +9,6 @@ Solved Two Database problems in the Leetcode; Sovled two algorithm problem of th
 
 ### R1D2
 Solved all the problems in the Second Chapter of the book<<Introduction to Classical ACM Problems>>.
+  
+### R1D3
+I've completed the interview problems of  Chapter One of the Pinceton Algorithm and a leetcode. Today is the R1D3. I know I am a little behind but I will try to catch up. I was busy with the application for the dean's scholarship last week.>>.
