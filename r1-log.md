@@ -12,3 +12,6 @@ Solved all the problems in the Second Chapter of the book<<Introduction to Class
   
 ### R1D3
 I've completed the interview problems of  Chapter One of the Pinceton Algorithm and a leetcode. Today is the R1D3. I know I am a little behind but I will try to catch up. I was busy with the application for the dean's scholarship last week.>>.
+
+### R1D4
+Today is R1D4, I've completed one leetcode and the fourth chapter of a guidebook of Java. And I am also working on the coding homework of the Princeton Algorithm. >>
