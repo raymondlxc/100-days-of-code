@@ -15,3 +15,9 @@ I've completed the interview problems of  Chapter One of the Pinceton Algorithm 
 
 ### R1D4
 Today is R1D4, I've completed one leetcode and the fourth chapter of a guidebook of Java. And I am also working on the coding homework of the Princeton Algorithm. >>
+
+### R1D5
+Today is R1D5, I've completed the Percolation problem of the Princeton Algorithm. It feels soooo good to see the program produces the desire outcome, though the debugging process is quite tedious.
+
+### R1D6
+Forgot to tweet for the last few days. I got a bad cold recently... I completed the courses of the second week of the  Algorithm (Part One) provided by Princeton on Coursera. Today is R1D6. I should be more self disciplined. 
