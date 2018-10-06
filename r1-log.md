@@ -21,3 +21,6 @@ Today is R1D5, I've completed the Percolation problem of the Princeton Algorithm
 
 ### R1D6
 Forgot to tweet for the last few days. I got a bad cold recently... I completed the courses of the second week of the  Algorithm (Part One) provided by Princeton on Coursera. Today is R1D6. I should be more self disciplined. 
+
+### R1D7 
+I completed two algorithm problems on the LeetCode, one is easy and the other one is medium. And I also completed all the videos of the second chapter of the Algorithm(Part One) by the Princeton.
