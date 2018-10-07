@@ -24,3 +24,6 @@ Forgot to tweet for the last few days. I got a bad cold recently... I completed 
 
 ### R1D7 
 I completed two algorithm problems on the LeetCode, one is easy and the other one is medium. And I also completed all the videos of the second chapter of the Algorithm(Part One) by the Princeton.
+
+### R1D8
+Completed one medium problem on LeetCode, which is about linked list. At first it couldn't pass because an integer variable would overflow in some testcases. So I have to change to another method to solve the problem and I made it!
