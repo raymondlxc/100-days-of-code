@@ -27,3 +27,6 @@ I completed two algorithm problems on the LeetCode, one is easy and the other on
 
 ### R1D8
 Completed one medium problem on LeetCode, which is about linked list. At first it couldn't pass because an integer variable would overflow in some testcases. So I have to change to another method to solve the problem and I made it!
+
+### R1D9
+Today is R1D9. I wrote a few python class for an academic project. I havent' used python for a long time but I now could quickly adapt to it. The classes are used to complete some data manipulation.
