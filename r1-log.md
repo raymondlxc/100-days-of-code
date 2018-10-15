@@ -30,3 +30,6 @@ Completed one medium problem on LeetCode, which is about linked list. At first i
 
 ### R1D9
 Today is R1D9. I wrote a few python class for an academic project. I havent' used python for a long time but I now could quickly adapt to it. The classes are used to complete some data manipulation.
+
+### R1D10
+TOday is R1D10. I completed the python module for processing the financial data, which involed of the pandas and pymsql library.  
