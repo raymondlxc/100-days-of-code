@@ -36,3 +36,6 @@ TOday is R1D10. I completed the python module for processing the financial data,
 
 ### R1D11
 TOday is R1D11. I started to learn and set up the environment of Spring+SpringMVC+MyBatis. I am going to set up a website with my friend. 
+
+### R1D12 
+Completed the problem of second chapter of the algorithm of Princeton. Also started to design the update module for the DTD index auto updating system.
