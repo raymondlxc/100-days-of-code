@@ -39,3 +39,7 @@ TOday is R1D11. I started to learn and set up the environment of Spring+SpringMV
 
 ### R1D12 
 Completed the problem of second chapter of the algorithm of Princeton. Also started to design the update module for the DTD index auto updating system.
+
+### R1D13
+Oct,22. Completed the updating module of the financial table for the indexing system. I found that it is quite useful for us to review the code we wrote before and try to improve them. 
+
