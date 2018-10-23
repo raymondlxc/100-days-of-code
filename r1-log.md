@@ -43,3 +43,6 @@ Completed the problem of second chapter of the algorithm of Princeton. Also star
 ### R1D13
 Oct,22. Completed the updating module of the financial table for the indexing system. I found that it is quite useful for us to review the code we wrote before and try to improve them. 
 
+### R1D14
+Oct,23. Completed two algorithm problems on leetcode. One is about doubly linked list，which cost me some time to solve some bugs...Anyway, happy coding everyday!
+
