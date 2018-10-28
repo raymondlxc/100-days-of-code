@@ -46,3 +46,5 @@ Oct,22. Completed the updating module of the financial table for the indexing sy
 ### R1D14
 Oct,23. Completed two algorithm problems on leetcode. One is about doubly linked list，which cost me some time to solve some bugs...Anyway, happy coding everyday!
 
+### R1D15
+Oct,28. Actually I forgot to update the file because I was too busy for the last few days. I completed the auto check-update module of the DTD system, it would check if the update is complete. And I also completed a few problems on leetcode.
